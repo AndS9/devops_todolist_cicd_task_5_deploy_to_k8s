@@ -1,4 +1,4 @@
-name: helm-uprade
+name: helm-upgrade
 run-name: ${{ github.actor }} - ${{ github.ref_name }}
 
 on: 
